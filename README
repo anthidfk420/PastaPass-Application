@@ -1,0 +1,7 @@
+PastaPass is a terminal-based password manager written in Python by yours truly (DaPastafarian)
+
+
+OPTIONS - when you launch the program, you can press one of the following keys:
+
+	C - will ask for the service/platform of the password (e.g. "youtube") and then creates a password for you.
+	D - 
