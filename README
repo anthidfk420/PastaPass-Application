@@ -3,5 +3,7 @@ PastaPass is a terminal-based password manager written in Python by yours truly 
 
 OPTIONS - when you launch the program, you can press one of the following keys:
 
-	C - will ask for the service/platform of the password (e.g. "youtube") and then creates a password for you.
-	D - 
+	c - will ask for the service/platform of the password (e.g. "youtube") and then creates a password for you.
+	d - display password
+	h - brings you to this page
+	l - list passwords on profile
